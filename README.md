@@ -1,6 +1,6 @@
 # Turkish-Biology-Chatbot
 A Turkish biology assistant to support high school students in their studies.
-# 🧬 BiyoTutor-TR: Turkish Biology Chatbot
+# BiyoTutor-TR: Turkish Biology Chatbot
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
@@ -12,14 +12,14 @@ This project involves fine-tuning a small language model (SLM) to enhance its do
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Domain Expertise:** Specialized knowledge in biology (9th-12th grade curriculum focus).
 * **Turkish Native:** Fine-tuned specifically for Turkish syntax and scientific terminology.
 * **Interactive Tutoring:** Capable of answering questions, explaining complex processes (e.g., Photosynthesis, Mitosis), and providing quizzes.
 * **Efficient:** Built on a lightweight 1.5B parameter model, optimized for inference on consumer hardware.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **Base Model:** [Insert Model Name, e.g., Qwen-1.5B-Chat / Gemma-2B]
@@ -29,7 +29,7 @@ This project involves fine-tuning a small language model (SLM) to enhance its do
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The model was fine-tuned on a curated dataset consisting of:
 1.  **Turkish Biology Textbooks:** High-quality OCR and processed text.
@@ -40,7 +40,7 @@ The model was fine-tuned on a curated dataset consisting of:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 To run this project locally, follow these steps:
 
@@ -63,7 +63,7 @@ To run this project locally, follow these steps:
 
 ---
 
-## 🧠 Model Training & Fine-Tuning
+## Model Training & Fine-Tuning
 
 We utilized **LoRA** to fine-tune the model efficiently. Below are the key hyperparameters used during training:
 
