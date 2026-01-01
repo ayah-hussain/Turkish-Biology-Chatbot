@@ -1,12 +1,12 @@
 # Turkish-Biology-Chatbot
 A Turkish biology assistant to support high school students in their studies.
-# BiyoTutor-TR: Turkish Biology Chatbot
+# Turkish Biology Chatbot
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Model](https://img.shields.io/badge/Model-1.5B_Parameters-green)
 
-**BiyoTutor-TR** is a specialized conversational AI designed to act as a biology tutor for Turkish-speaking students. It provides accurate, context-aware explanations for biological concepts, ranging from cell biology to genetics and ecology.
+This project is a specialized conversational AI designed to act as a biology tutor for Turkish-speaking students. It provides accurate, context-aware explanations for biological concepts, ranging from cell biology to genetics and ecology.
 
 This project involves fine-tuning a small language model (SLM) to enhance its domain-specific knowledge in biology while maintaining fluency in Turkish.
 
